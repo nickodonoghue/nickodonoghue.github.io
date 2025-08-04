@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
 ---
 
-### Economics, and tech. Techonomics?
+### Poking at economics and technology
 
 My path to my current spot has been unconventional (I enjoy saying that). I started with a degree in Economics, then spent a few years fixing technology and talking to people at Apple. Somewhere along the way, I discovered a genuine interest in how the underlying infrastructure of it all works. 
 
