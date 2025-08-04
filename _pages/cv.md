@@ -23,8 +23,7 @@ Work experience
 
 * Sep 2021 - Mar 2022: Specialist
   * Apple
-  * Duties included: 
-  * Supervisor: Professor Hub
+  * Duties included: Sales
 
 * Summer 2022: Intern
   * Monash Centre for Financial Studies
