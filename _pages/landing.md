@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Poking around in economics and technology"
+title: "Bridging economics and technology"
 author_profile: true
 redirect_from: 
 ---
